@@ -2,20 +2,7 @@
 @section('title','Home')
 @section('content')
 Halo Ini homepage untuk cek material apa yang tersedia silahkan langsung ke menu switch
-    {{-- <div class="card" style="width: 18rem;">
-        <img src="https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/10/18/2046977429.jpg" class="card-img-top" alt="...">
-        <div class="card-body">
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        </div>
-      </div>
-
-    <p>
-        <div class="card" style="width: 18rem;">
-            <img src="https://www.pockettactics.com/wp-content/sites/pockettactics/2022/08/genshin-impact-nilou-2-1.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            </div>
-          </div> --}}<br>
+<br>
 <div class="row">
   <div class="col-sm-6">
     <div class="card">
